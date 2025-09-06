@@ -1,0 +1,6 @@
+LIVEKIT_URL=wss://jarvis-6gvatace.livekit.cloud
+LIVEKIT_API_KEY=APIWFeTFS3YzjiL
+LIVEKIT_API_SECRET=3zaWxssLDveMUtI4PhHiFeIf3rQFTDSsL1keWkYaEpZD
+
+
+google api key = AIzaSyCgMlDOc-ak1eZXjRO5VFAcU40mR5tjf6U
